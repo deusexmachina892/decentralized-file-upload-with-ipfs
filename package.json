@@ -1,0 +1,27 @@
+{
+  "name": "ipfs-image-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ipfs-api": "^26.1.2",
+    "truffle-hdwallet-provider": "0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deusexmachina892/decentralized-file-upload-with-ipfs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deusexmachina892/decentralized-file-upload-with-ipfs/issues"
+  },
+  "homepage": "https://github.com/deusexmachina892/decentralized-file-upload-with-ipfs#readme"
+}
